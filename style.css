@@ -1,0 +1,30 @@
+body {
+    font-family: 'Itim', cursive;
+    background: rgb(70, 124, 194);
+}
+.header_div p {
+font-family: Georgia;
+color: greenyellow;
+letter-spacing: 2px;
+font-size:14px;
+font-weight: bold;
+}
+.main_div button {
+font-family: sans-serif;
+margin-top: 32px;
+width: 120px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+
+}
